@@ -1,0 +1,9 @@
+D:\Project\LearningSystem\Constats\ConstantProject\ConstantProject\bin\Debug\netstandard2.1\ConstantProject.deps.json
+D:\Project\LearningSystem\Constats\ConstantProject\ConstantProject\bin\Debug\netstandard2.1\ConstantProject.dll
+D:\Project\LearningSystem\Constats\ConstantProject\ConstantProject\bin\Debug\netstandard2.1\ConstantProject.pdb
+D:\Project\LearningSystem\Constats\ConstantProject\ConstantProject\obj\Debug\netstandard2.1\ConstantProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\LearningSystem\Constats\ConstantProject\ConstantProject\obj\Debug\netstandard2.1\ConstantProject.AssemblyInfoInputs.cache
+D:\Project\LearningSystem\Constats\ConstantProject\ConstantProject\obj\Debug\netstandard2.1\ConstantProject.AssemblyInfo.cs
+D:\Project\LearningSystem\Constats\ConstantProject\ConstantProject\obj\Debug\netstandard2.1\ConstantProject.csproj.CoreCompileInputs.cache
+D:\Project\LearningSystem\Constats\ConstantProject\ConstantProject\obj\Debug\netstandard2.1\ConstantProject.dll
+D:\Project\LearningSystem\Constats\ConstantProject\ConstantProject\obj\Debug\netstandard2.1\ConstantProject.pdb
