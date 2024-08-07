@@ -6,7 +6,8 @@
     <Title>ConstantsProject</Title>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageTags>constants</PackageTags>
-	 <RepositoryUrl>https://github.com/Ghost-Sound/Constats.git</RepositoryUrl>
+	<RepositoryUrl>https://github.com/Ghost-Sound/Constats.git</RepositoryUrl>
+	  <VersionPrefix>1.0.1</VersionPrefix>
   </PropertyGroup>
 
 </Project>
